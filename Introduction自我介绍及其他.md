@@ -8,7 +8,7 @@
 
 # Self Account 关联账号
 - 推特Twitter：
-- 豆瓣Douban：
-- 新浪微博Sinaweibo：
-- 知乎Zhihu：
-- Bilibili：
+- 豆瓣Douban：https://www.douban.com/people/69691222/
+- 新浪微博Sinaweibo：https://weibo.com/7201132438/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
+- 知乎Zhihu：https://www.zhihu.com/people/tian-zhao-yao-tuan/activities
+- Bilibili：https://space.bilibili.com/4972033
