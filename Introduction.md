@@ -6,7 +6,7 @@
 - 研究领域：经学文献、东亚经学史、中国近现代学术思想史、ACG学术史、数字人文学
 - 读书人、不合格的码农。
 
-# Self Account
+# Self Account 关联账号
 - 推特Twitter：
 - 豆瓣Douban：
 - 新浪微博Sinaweibo：
